@@ -1,6 +1,6 @@
 public class HelloWorld
 {
-    static String HelloWorld = "Hello World!";
+    static String HelloWorld = "Hello World";
     public static void main(String[] args)
     {
 
